@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;FruitsConstants.java&apos; to &apos;2-4/src/constants&apos;&#x0A;- 元のプロジェクト: &apos;2-4&apos;&#x0A;- 宛先要素: &apos;2-4/src/constants&apos;&#x0A;- オリジナル要素: &apos;FruitsConstants.java&apos;&#x0A;- リファクタリングされた要素の参照を更新" description="コンパイル単位を移動" destination="/src&lt;constants" element1="/src&lt;{FruitsConstants.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1600520917731" units="1" version="1.0"/>
+</session>
