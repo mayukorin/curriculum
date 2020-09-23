@@ -1,0 +1,27 @@
+package check;
+
+public class Check {
+
+	private String firstName = "井上";
+	private String lastName = "真悠子";
+
+	private void printName(String firstName,String lastName) {
+
+		System.out.println(firstName+lastName);
+
+	}
+
+	public static void main(String[] args) {
+		// TODO 自動生成されたメソッド・スタブ
+
+		Check c = new Check();
+
+		c.printName(c.firstName,c.lastName);
+
+
+
+	}
+
+
+
+}

@@ -1,0 +1,33 @@
+package check;
+
+public class Check {
+
+	//課題①
+	private String firstName = "井上";
+	private String lastName = "真悠子";
+
+	//課題②
+	private void printName(String firstName,String lastName) {
+
+		System.out.println(firstName+lastName);
+
+	}
+
+	public static void main(String[] args) {
+		// TODO 自動生成されたメソッド・スタブ
+
+
+		Check c = new Check();
+
+		System.out.print("printNameメソッド→");
+		c.printName(c.firstName,c.lastName);
+
+		Pet pet = new Pet("java吉","hoge");
+
+
+
+	}
+
+
+
+}

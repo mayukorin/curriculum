@@ -1,0 +1,13 @@
+package check;
+
+public class Check {
+
+	public static void main(String[] args) {
+		// TODO 自動生成されたメソッド・スタブ
+
+		private final String firstName = "井上";
+		private final String lastName = "真悠子";
+
+	}
+
+}

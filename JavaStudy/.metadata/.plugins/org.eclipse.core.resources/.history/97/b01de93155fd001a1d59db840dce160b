@@ -1,0 +1,19 @@
+package check;
+
+public class Check {
+
+
+
+	private void printName(String firstName,String lastName) {
+
+		System.out.println(firstName+lastName);
+
+	}
+
+	public static void main(String[] args) {
+		// TODO 自動生成されたメソッド・スタブ
+
+
+	}
+
+}
